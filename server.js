@@ -1,7 +1,7 @@
 // Dependencies
 // =============================================================
-var express = require("../09-StarWars-2/node_modules/express");
-var path = require("../09-StarWars-2/node_modules/path");
+var express = require("express");
+var path = require("path");
 
 // Sets up the Express App
 // =============================================================
